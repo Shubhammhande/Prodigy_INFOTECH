@@ -1,4 +1,4 @@
-#Task 3
+Task 3
 <b>Password Complexity Checker</b>
 
 This Python program evaluates the strength of a password based on several criteria, offering users feedback on how secure their passwords are. The tool provides tips for creating strong passwords and ensures that users understand the importance of various password components.
